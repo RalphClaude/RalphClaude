@@ -1,6 +1,6 @@
 ### Hello there my name is Ralph :)
-Hi, I'm Josh!
-Programmer, Cybersecurity Professional
+
+Cybersecurity Professional
 👨‍💻 Software Development Projects:
 Data Structures and Algorithms Practice (AlgoExpert)
 Praciting DS & Algos in Python
