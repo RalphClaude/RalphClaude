@@ -2,7 +2,7 @@
 <h1>Hi, I'm Ralph! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">
 <h2>👨‍💻 Software Development Projects:</h2>
 
-<h1>Hi, I'm Ralph, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Ralph, an <a href="vhttps://www.linkedin.com/in/ralph-claude-05744727a/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
