@@ -1,8 +1,8 @@
 
-<h1>Hi, I'm Ralph! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">
+<h1>Hi, I'm Ralph! <br/><a href="https://www.linkedin.com/in/ralph-claude-05744727a/">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">
 <h2>👨‍💻 Software Development Projects:</h2>
 
-<h1>Hi, I'm Ralph, an <a href="vhttps://www.linkedin.com/in/ralph-claude-05744727a/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Ralph, an <a href="https://www.linkedin.com/in/ralph-claude-05744727a/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -28,7 +28,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/ralph-claude-05744727a/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
