@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ralph! <br/><a href="https://github.com/joshmadakor1">An IT Professionalr</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Ralph! <br/><a href="https://github.com/joshmadakor1">An IT Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
 <h2>👨‍💻  Information Technology Projects:</h2>
 
