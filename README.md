@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ralph! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻  Information Technology Projects:</h2>
 
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
