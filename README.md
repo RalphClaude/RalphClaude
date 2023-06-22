@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ralph, an <a href="https://www.linkedin.com/in/ralph-claude-05744727a/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Ralph, an <a href="https://www.linkedin.com/in/ralph-claude-05744727a/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
